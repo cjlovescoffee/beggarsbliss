@@ -26,7 +26,7 @@
                             </ul>
                         </nav>
                     </div>
-                    <div class="col-auto">
+                    <div class="col-auto d-none d-md-block">
                         <nav id="bb-header-socials-menu">
                             <ul class="nav">
                                 @foreach(config('social.accounts') as $account)
