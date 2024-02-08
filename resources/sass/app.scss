@@ -1,4 +1,18 @@
+// import fonts
+@import "_fonts";
+
+// import bootstrap (including variable overrides)
 @import "_variables";
 @import "bootstrap";
 
-@import "layout";
+// import other third-party dependencies
+$fa-font-path: 'fontawesome/webfonts';
+@import "fontawesome/scss/brands";
+@import "fontawesome/scss/regular";
+@import "fontawesome/scss/solid";
+@import "fontawesome/scss/fontawesome";
+
+// import custom styles
+@import "_layout";
+@import "_header";
+@import "_forms";
