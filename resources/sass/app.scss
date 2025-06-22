@@ -16,3 +16,31 @@ $fa-font-path: 'fontawesome/webfonts';
 @import "_layout";
 @import "_header";
 @import "_forms";
+
+article > details {
+    > summary:after {
+        content: attr(data-closed);
+    }
+
+    &[open] {
+        > summary:after {
+            content: attr(data-open);
+        }
+    }
+}
+
+body {
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    transition: all 0.5s ease;
+    z-index: 1;
+}
+
+iframe.spotify * {
+    background-color: transparent;
+}
