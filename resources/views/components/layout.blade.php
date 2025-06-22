@@ -16,7 +16,7 @@
                 <div class="row align-items-center">
                     <div class="col">
                         <nav id="bb-main-menu">
-                            <ul class="nav">
+                            <ul class="nav justify-content-center justify-content-md-start">
                                 <li class="nav-item">
                                     <a href="#about" class="nav-link h6 mb-0">About</a>
                                 </li>
