@@ -10,7 +10,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
         @vite(['resources/sass/app.scss'])
     </head>
-    <body style="background-image: url('{{ asset('storage/beggarsbliss.jpg') }}');">
+    <body style="background-image: url('{{ asset('storage/beggarsbliss.jpg') }}?ver=2');">
         <header id="header" class="shadow position-fixed w-100">
             <div class="container-fluid">
                 <div class="row align-items-center">
