@@ -21,6 +21,14 @@ use Illuminate\Support\Facades\Route;
 //     return view('events');
 // });
 
+Route::get('tip-jar', function () {
+    return view('tip-jar');
+});
+
+Route::get('thank-you', function () {
+    return view('thankyou');
+});
+
 Route::get('/', function () {
     return view('home');
 });
