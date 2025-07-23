@@ -144,6 +144,23 @@
             <h2 class="h1 text-uppercase text-center">News</h2>
             <section>
                 <article>
+                    <h3 class="text-uppercase">New single <span>Peaches N' Cream</span> out on <time datetime="2025-08-15">15th August</time></h3>
+                    <p>Posted <time datetime="2025-07-23">23rd July 2025</time></p>
+                    
+                    <details>
+                        <summary data-closed="Show more" data-open="Show less"></summary>
+                        <div class="py-2 d-flex">
+                            <div class="d-inline-block mx-auto">
+                                <video class="w-auto" controls>
+                                    <source src="{{ asset('storage/peachesteaser.mp4') }}" type="video/mp4">
+                                    Your browser does not support the video tag.
+                                </video>
+                            </div>
+                        </div>
+                        <h4 class="text-center">Pre-save <a href="https://distrokid.com/hyperfollow/beggarsbliss/peaches-n-cream">here</a>!</h4>
+                    </details>
+                </article>
+                <article>
                     <h3 class="text-uppercase">New single <span>Forbidden Fruit</span> out on <time datetime="2025-06-27">27th June</time></h3>
                     <p>Posted <time datetime="2025-04-28">28th April 2025</time></p>
                     
