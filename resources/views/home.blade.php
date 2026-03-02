@@ -12,9 +12,10 @@
         <span id="about" class="position-absolute" style="transform: translateY(-40px)"></span>
         <div class="container mb-5">
             <h2 class="h1 text-uppercase text-center">About</h2>
-            <p>Beggars Bliss are a Derby-born rock outfit formed in 2024. In their first year, they released debut single ‘I Am I’ and packed out local venues. They’re now branching out across the UK with festivals and city gigs. Their second single ‘Forbidden Fruit’ drops June 27th with more to follow.</p>
-            <p>Beggars Bliss started with one rule: if it’s not fun, it’s not worth doing. That energy runs through everything they play – tight as hell, endlessly expressive, and driven by the pure joy of making music together.</p>
-            <p>Stacking near-constant three-part harmonies—three strong lead voices weave in and out to elevate every chorus. Keys, guitar, bass and drums trade spotlight moments, but ego never outruns the song; the goal is always the same: riffs and choruses that drill into your brain on the first pass and have you shouting the hook by the second.</p>
+            <p>Beggars Bliss are a blues driven rock outfit from Derby, UK formed in 2024 with one rule: if it’s not fun, it’s not worth doing. That energy runs through everything they play – tight as hell, endlessly expressive, and driven by the pure joy of making music together.</p>
+            <p>Since their launch, the band has been on an upward trajectory. Relentlessly gigging across the Midlands, including a standout set at Off The Tracks Festival in 2025, and bringing their high energy show to new cities like Manchester as their reach continues to grow.</p>
+            <p>With five singles and two music videos already under their belt, Beggars Bliss are now preparing to release their debut album in 2026, with more live dates and festival appearances on the horizon.</p>
+            <p>Their live show features impressive solos, near constant three part harmonies and danceable grooves with plenty of opportunities for audience participation. Guitar, keys, bass and drums trade spotlight moments, but ego never outruns the song. The goal is always the same: riffs and choruses that drill into your brain on the first pass and have you shouting the hook by the second.</p>
         </div>
         <div class="container"><hr></div>
         <div class="container mb-5">
@@ -143,7 +144,7 @@
             <span id="news" class="position-absolute" style="transform: translateY(-40px)"></span>
             <h2 class="h1 text-uppercase text-center">News</h2>
             <section>
-                <article>
+                <article class="mb-3">
                     <h3 class="text-uppercase">New single <span>Peaches N' Cream</span> out on <time datetime="2025-08-15">15th August</time></h3>
                     <p>Posted <time datetime="2025-07-23">23rd July 2025</time></p>
                     
@@ -196,6 +197,25 @@
             <span id="contact" class="position-absolute" style="transform: translateY(-40px)"></span>
             <h2 class="h1 text-uppercase text-center">Contact</h2>
             <p class="text-center">For bookings or any other enquiry, please email <a href="mailto:info@beggarsbliss.com">info@beggarsbliss.com</a>.</p>
+        </div>
+        <div class="container"><hr></div>
+        <div class="container mb-5">
+            <span id="videos" class="position-absolute" style="transform: translateY(-40px)"></span>
+            <h2 class="h1 text-uppercase text-center">Videos</h2>
+            <div>
+                <div class="row">
+                    <div class="col-12 col-lg-6 mb-3">
+                        <div class="position-relative" style="height: 0; padding-bottom: 52.25%;">
+                            <iframe class="position-absolute" style="height: 100%; width: 100%; top: 0; left: 0;" src="https://www.youtube.com/embed/2SbiS_q0toA?si=2fyEWLGbeG7lpbT5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-6 mb-3">
+                        <div class="position-relative" style="height: 0; padding-bottom: 52.25%;">
+                            <iframe class="position-absolute" style="height: 100%; width: 100%; top: 0; left: 0;" src="https://www.youtube.com/embed/bRjkEdjbw44?si=kjQvyEvUcHU22z3y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </x-layout>

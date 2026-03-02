@@ -35,6 +35,9 @@
                                 <li class="nav-item">
                                     <a href="#contact" class="nav-link h6 mb-0">Contact</a>
                                 </li>
+                                <li class="nav-item">
+                                    <a href="#videos" class="nav-link h6 mb-0">Videos</a>
+                                </li>
                             </ul>
                         </nav>
                     </div>
