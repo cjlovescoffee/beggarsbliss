@@ -5,6 +5,12 @@
                 <div class="col-11 col-sm-10 col-md-6">
                     <x-logo style="filter: drop-shadow( 0 0 8px rgba(0, 0, 0, 1));" />
                 </div>
+                <div class="col-12">
+                    <div class="text-center">
+                        <h1 class="mt-2">Our debut album releases 21<sup style="font-size: 0.5em">st</sup> May 2026</h1>
+                        <a href="https://beggarsbliss.square.site" target="_blank" class="btn btn-primary btn-lg">PRE-ORDER NOW!</a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
