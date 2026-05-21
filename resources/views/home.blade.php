@@ -7,8 +7,8 @@
                 </div>
                 <div class="col-12">
                     <div class="text-center">
-                        <h1 class="mt-2">Our debut album releases 21<sup style="font-size: 0.5em">st</sup> May 2026</h1>
-                        <a href="https://beggarsbliss.square.site" target="_blank" class="btn btn-primary btn-lg">PRE-ORDER NOW!</a>
+                        <h1 class="mt-2">Our debut album is out now!</h1>
+                        <a href="https://beggarsbliss.square.site" target="_blank" class="btn btn-primary btn-lg">BUY YOUR COPY HERE!</a>
                     </div>
                 </div>
             </div>
