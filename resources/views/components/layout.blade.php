@@ -18,25 +18,25 @@
                         <nav id="bb-main-menu">
                             <ul class="nav justify-content-center justify-content-md-start">
                                 <li class="nav-item">
-                                    <a href="#about" class="nav-link h6 mb-0">About</a>
+                                    <a href="/#about" class="nav-link h6 mb-0">About</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#music" class="nav-link h6 mb-0">Music</a>
+                                    <a href="/#music" class="nav-link h6 mb-0">Music</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#events" class="nav-link h6 mb-0">Events</a>
+                                    <a href="/#events" class="nav-link h6 mb-0">Events</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#news" class="nav-link h6 mb-0">News</a>
+                                    <a href="/#news" class="nav-link h6 mb-0">News</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#socials" class="nav-link h6 mb-0">Socials</a>
+                                    <a href="/#socials" class="nav-link h6 mb-0">Socials</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#contact" class="nav-link h6 mb-0">Contact</a>
+                                    <a href="/#contact" class="nav-link h6 mb-0">Contact</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#videos" class="nav-link h6 mb-0">Videos</a>
+                                    <a href="/#videos" class="nav-link h6 mb-0">Videos</a>
                                 </li>
                             </ul>
                         </nav>

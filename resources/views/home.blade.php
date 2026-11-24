@@ -223,5 +223,23 @@
                 </div>
             </div>
         </div>
+        <div class="container"><hr></div>
+        <div class="container mb-5">
+            <h2 class="h1 text-uppercase text-center">Subscribe to our mailing list</h2>
+            <form action="https://beggarsbliss.mailcoach.app/subscribe/0ee01311-f8f6-4bfc-8415-2b1b5c371f91" method="post">
+                <div class="row">
+                    <div class="col-12 col-md">
+                        <input type="email" name="email" placeholder="Your email address" class="form-control mb-3 mb-md-auto" />
+                        <div style="position: absolute; left: -9999px">
+                            <label for="website-buzz">Your buzz</label>
+                            <input type="text" id="website-buzz" name="buzz" tabindex="-1" autocomplete="nope" />
+                        </div>
+                    </div>
+                    <div class="col-12 text-center col-md-auto">
+                        <input type="submit" value="Subscribe" class="btn btn-primary">
+                    </div>
+                </div>
+            </form>
+        </div>
     </div>
 </x-layout>

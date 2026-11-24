@@ -29,6 +29,10 @@ Route::get('thank-you', function () {
     return view('thankyou');
 });
 
+Route::get('subscribed', function () {
+    return view('subscribed');
+});
+
 Route::get('/', function () {
     return view('home');
 });
